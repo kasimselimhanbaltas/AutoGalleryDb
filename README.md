@@ -9,3 +9,6 @@ Bayi araba satın aldığında araba bilgilerinin veritabanına işlenme sıras�
 
 ### Müşteriye Araba Satmak
 Müşteri araba satın aldığında araba verisi "purchasedcar" tablosundan silinir ve "soldcar" tablosuna eklenir.
+
+## Veritabanı Diyagramı
+![image](https://user-images.githubusercontent.com/97612182/208833372-71905841-f47d-4e4f-96e3-ffc922d498be.png)
